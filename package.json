@@ -1,5 +1,7 @@
 {
   "name": "brain-change",
+  "engines": {
+    "node": "22.x" },
   "version": "0.1.2",
   "private": true,
   "proxy": "http://localhost:5000",
